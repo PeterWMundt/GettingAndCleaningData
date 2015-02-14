@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \name{Course Project for 'Getting and Cleaning Data'}
 \alias{read_me file - containts information about the course project for 'Getting and Cleaning Data'}
 
@@ -84,3 +85,7 @@ Use this statement to read the file in a data.frame (RRR):
 ```
 RRR <- read.table("./result.txt", header=TRUE)
 ```
+=======
+# GettingAndCleaningData
+Project for the Course "Getting and Cleaning Data"
+>>>>>>> 4db2f44104bc0fea88a8105abcc6366ad7879a1f
